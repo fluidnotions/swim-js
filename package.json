@@ -38,7 +38,6 @@
     "clone": "^1.0.2",
     "commander": "^2.6.0",
     "debug": "^2.1.1",
-    "farmhash": "^2.0.0",
-    "msgpack": "^1.0.2"
+    "string-hash-64": "^1.0.3"
   }
 }
